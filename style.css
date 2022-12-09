@@ -71,7 +71,7 @@ body{
 }
 @media (min-width: 1140px) {
     .container {
-        width: 70rem;
+        width: 72rem;
         height: 30rem;
         display: flex;
         flex-direction: row-reverse;
