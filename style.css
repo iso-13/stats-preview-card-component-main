@@ -43,7 +43,6 @@ body{
 .info-section h2{
     font-size: 2.5rem;
     padding: 2rem 1rem;
-    margin-top: 35px;
     color: var(--clr-White);
     font-weight: 700;
 }
@@ -53,7 +52,6 @@ body{
 .main-p{
     font-size: 1rem;
     padding: 0 3.5rem;
-    margin: 32px 0;
     color: var(--clr-Slightly-transparent-white);
     line-height: 25px;
 }
@@ -90,6 +88,10 @@ body{
     }
     .info-section h2{
         padding: 2rem 2.5rem;
+        margin-top: 35px;
+    }
+    .main-p{
+        margin: 32px 0;
     }
     .flex-group{
         margin: 2rem;
